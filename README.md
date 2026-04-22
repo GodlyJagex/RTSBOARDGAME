@@ -1,7 +1,11 @@
 # RTSBOARDGAME
 RTS Board Game
 ### Game Setup
- Each player starts with a empty Resource pool to track their Gold/Wood/Stone, A Town Center to track their 20 life and 10 population cap and each player starts with 5 empty building slots.
+ Each player starts with a empty Resource pool to track their Gold/Wood/Stone, A Town Center with 20 durability and 10 population cap and each player starts with 5 empty building slots.
+### Winning and Losing the game
+ Players lose the game when their Town Centers is destroyed by it's durability reaching 0
+ Players win the game when all other players Town Centers are destoyed
+ 
 ### Turn Structure
 - Start of turn events happen
 - Make three Actions
