@@ -11,6 +11,7 @@ RTS Board Game
 ### Buildings
   - Players may use actions and resources to build buildings in empty building slots.
   - Players may dismantle builds for an action to open up a building slot, at the cost of the resources spent to build the building.
+  
 - Bank:
   - Description: At the start of your turn produce 1 Gold
   - Cost: 2 stone, 1 wood, 1 gold
