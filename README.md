@@ -44,7 +44,7 @@ RTS Board Game
   - Description: At the Start of your turn produce one Soldier. During your turn you may use an action to make a soldier.
   - Cost: 3 stone, 3 wood, 3 gold
   - Durability: 9
-  - 
+    
 ### Actions 
 - Prodcuce a resource
 - Build a building
