@@ -18,15 +18,17 @@ RTS Board Game
   - Description: At the start of your turn produce 1 Stone
   - Cost: 1 stone, 1 wood, 2 gold
 - Small House
-  - Description : Increase population cap by 1
+  - Description: Increase population cap by 1
   - Cost: 1 stone, 1 wood, 1 gold
 - Medium House
-  - Description : Increase population cap by 2
+  - Description: Increase population cap by 2
   - Cost: 2 stone, 2 wood, 2 gold
 - Large House
-  - Description : Increase population cap by 3
+  - Description: Increase population cap by 3
   - Cost: 3 stone, 3 wood, 3 gold
-  
+- Barracks
+  - Description: At the Start of your turn produce one Soldier. During your turn you may use an action to make a soldier.
+  - Cost: 3 stone, 3 wood, 3 gold
 ### Actions 
 - Prodcuce a resource
 - Build a building
