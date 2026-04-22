@@ -11,28 +11,35 @@ RTS Board Game
 ### Buildings
   - Players may use actions and resources to build buildings in empty building slots.
   - Players may dismantle builds for an action to open up a building slot, at the cost of the resources spent to build the building.
-  
+  - Buildings can be attacked
 - Bank:
   - Description: At the start of your turn produce 1 Gold
   - Cost: 2 stone, 1 wood, 1 gold
+  - Durability: 4
 - Lumber Yard
   - Description: At the start of your turn produce 1 Wood
   - Cost: 1 stone, 1 wood, 2 gold
+  - Durability: 4
 - Stone Mine
   - Description: At the start of your turn produce 1 Stone
   - Cost: 1 stone, 1 wood, 2 gold
+  - Durability: 4
 - Small House
   - Description: Increase your population cap by 1
   - Cost: 1 stone, 1 wood, 1 gold
+  - Durability: 3
 - Medium House
   - Description: Increase your population cap by 2
   - Cost: 2 stone, 2 wood, 2 gold
+  - Durability: 6
 - Large House
   - Description: Increase your population cap by 3
   - Cost: 3 stone, 3 wood, 3 gold
+  - Durability: 9
 - Barracks
   - Description: At the Start of your turn produce one Soldier. During your turn you may use an action to make a soldier.
   - Cost: 3 stone, 3 wood, 3 gold
+  - Durability: 9
     
 ### Actions 
 - Prodcuce a resource
@@ -40,3 +47,4 @@ RTS Board Game
 - Produce a soldier
 - Dismantle a building
 - Attack an enemy building or townhall
+- Repair a building by 5 Durability
