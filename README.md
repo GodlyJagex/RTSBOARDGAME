@@ -55,5 +55,5 @@ RTS Board Game
   
 ### Attacking
  - After taking all three actions players may then decide if and how they want to attack another player.
- - If you choose to attack, you will choose how many soldiers you want to attack with and which player you are attacking and which building of theirs you are attacking. The defending player will then decide if they want to block with their soldiers and how many they want to block with.
+ - If you choose to attack, you will choose how many soldiers you want to attack with and which player you are attacking and which building of theirs you are attacking, you may only choose to attack their town hall if they have an empty building slot. The defending player will then decide if they want to block with their soldiers and how many they want to block with.
  - EX. If Player A attacks Player D's Barracks with 5 soldiers and player D blocks with 3 of their 6 soldiers, each player loses 3 soldiers and Player D's Barracks loses 2 durability. 
