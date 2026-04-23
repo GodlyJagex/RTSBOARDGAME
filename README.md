@@ -3,7 +3,7 @@ RTS Board Game
 ### Game Setup
  Each player starts with a empty Resource pool to track their Gold/Wood/Stone, A Town Center with 20 durability and 10 population cap and each player starts with 5 empty building slots.
 ### Winning and Losing the game
- Players lose the game when their Town Centers is destroyed by it's durability reaching 0
+ Players lose the game when their Town Center is destroyed.
  Players win the game when all other players Town Centers are destoyed
  
 ### Turn Structure
@@ -16,6 +16,7 @@ RTS Board Game
   - Players may use actions and resources to build buildings in empty building slots.
   - Players may dismantle builds for an action to open up a building slot, at the cost of the resources spent to build the building.
   - Buildings can be attacked
+  - Buildings are destoyed when their durability reaches 0.
 - Bank:
   - Description: At the start of your turn produce 1 Gold
   - Cost: 2 stone, 1 wood, 1 gold
