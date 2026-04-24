@@ -51,8 +51,7 @@ RTS Board Game
 - Build a building
 - Produce a soldier
 - Dismantle a building
-- Attack an enemy building or townhall
-- Repair a building by 5 Durability
+- Repair a building 2 Durability
   
 ### Attacking
  - After taking all three actions players may then decide if and how they want to attack another player.
